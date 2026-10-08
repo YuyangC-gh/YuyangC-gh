@@ -1,5 +1,5 @@
 <a href="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=36&pause=1000&color=8B5A2B&width=450&lines=Hi%2C+I'm+Yuyang+%E2%9C%A8">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=36&pause=1000&color=8B5A2B&width=450&lines=Hi%2C+I'm+Yuyang+%E2%9C%A8" alt="Hi, I'm Yuyang" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=36&pause=1000&color=8B5A2B&width=450&lines=Hi%2C+I'm+Yuyang" alt="Hi, I'm Yuyang" />
 </a>
 
 <p align="left">
